@@ -3,13 +3,13 @@ module git.corout.in/golibs/tags
 go 1.17
 
 require (
-	git.corout.in/golibs/errors v1.1.1
+	git.corout.in/golibs/errors v1.1.2
 	git.corout.in/golibs/filepaths v1.0.3
 	github.com/stretchr/testify v1.7.1
 )
 
 require (
-	git.corout.in/golibs/fields v1.0.2 // indirect
+	git.corout.in/golibs/fields v1.0.4 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
