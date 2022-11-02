@@ -3,7 +3,7 @@ package tags
 import (
 	"reflect"
 
-	"git.corout.in/golibs/errors"
+	"git.eth4.dev/golibs/errors"
 )
 
 // TagProcessor - интерфейс процессора тэгов

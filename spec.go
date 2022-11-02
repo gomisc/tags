@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"strings"
 
-	"git.corout.in/golibs/errors"
+	"git.eth4.dev/golibs/errors"
 )
 
 const (

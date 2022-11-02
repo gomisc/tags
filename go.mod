@@ -1,15 +1,15 @@
-module git.corout.in/golibs/tags
+module git.eth4.dev/golibs/tags
 
 go 1.18
 
 require (
-	git.corout.in/golibs/errors v1.1.17
-	git.corout.in/golibs/filepaths v1.0.4
+	git.eth4.dev/golibs/errors v1.1.17
+	git.eth4.dev/golibs/filepaths v1.0.4
 	github.com/stretchr/testify v1.8.0
 )
 
 require (
-	git.corout.in/golibs/fields v1.0.6 // indirect
+	git.eth4.dev/golibs/fields v1.0.6 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
