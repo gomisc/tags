@@ -3,13 +3,13 @@ module git.eth4.dev/golibs/tags
 go 1.18
 
 require (
-	git.eth4.dev/golibs/errors v1.1.17
-	git.eth4.dev/golibs/filepaths v1.0.4
+	git.eth4.dev/golibs/errors v1.2.1
+	git.eth4.dev/golibs/filepaths v1.1.0
 	github.com/stretchr/testify v1.8.0
 )
 
 require (
-	git.eth4.dev/golibs/fields v1.0.6 // indirect
+	git.eth4.dev/golibs/fields v1.1.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
