@@ -3,7 +3,7 @@ package tags
 import (
 	"reflect"
 
-	"git.eth4.dev/golibs/errors"
+	"gopkg.in/gomisc/errors.v1"
 )
 
 // TagProcessor - интерфейс процессора тэгов

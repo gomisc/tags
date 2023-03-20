@@ -6,10 +6,10 @@ import (
 	"reflect"
 	"time"
 
-	"git.eth4.dev/golibs/errors"
-	"git.eth4.dev/golibs/filepaths"
+	"gopkg.in/gomisc/errors.v1"
+	"gopkg.in/gomisc/filepaths.v1"
 
-	"git.eth4.dev/golibs/tags"
+	"gopkg.in/gomisc/tags.v1"
 )
 
 type RedisConf struct {
